@@ -11,4 +11,4 @@ const initHadlebars = (app) => {
     app.set('view engine', 'hbs');
 }
 
-module.exports  =initHadlebars;
+module.exports = initHadlebars;
